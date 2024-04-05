@@ -8,4 +8,4 @@ while x <= total_value:
     scores.append(percent_score)
 
 for index, score in enumerate(scores):
-    print(f"-{index}: {score}")
+    print(f"-{index}:  {round(score, 2)}%")
