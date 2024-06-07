@@ -1,6 +1,6 @@
 # EZ Grader chart
 
-like the popular physical tool for teachers, the user inputs the number of questions and the program spits out a chart of percentage scores for each question missed. 
+like the popular physical tool for teachers, the user inputs the number of questions and the program spits out a chart of percentage scores for each question missed. There is a version of this program that rounds to whole numbers, for which, see branches.
 
 ## example:
 
